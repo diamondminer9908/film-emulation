@@ -29,7 +29,7 @@ sudo "/Library/Application Support/FilmEmulationUpdater/uninstall.sh"
 
 New versions install by themselves at startup, every 15 minutes and when the network connects, and a Windows notification tells you when one is installed. If Resolve was open, restart Resolve to use the new version. If you installed before version 3.3, run **Install Film Emulation.cmd** once more to get the notifications. To uninstall, double-click **Uninstall Film Emulation.cmd** in the same folder.
 
-To see which version you have, look at the end of the **Pipeline** line at the top of the Film Emulation panel.
+To see which version you have, look at the **Version** line at the very top of the Film Emulation panel.
 
 ## Install by hand (no automatic updates)
 
